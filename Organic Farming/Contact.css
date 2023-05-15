@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: greenyellow;
+    padding:10px;
+    position: fixed;
+    width:100%;
+}
+.navbar img{
+    height: 70px;
+    width: 150px;
+    padding-left: 30px;
+}
+.nav-items{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    padding-left:100px;
+    
+}
+.nav-items a{
+    padding-inline-start:50px;
+    color: black;
+    margin-top: -45px;
+    font-size:20px;
+}
+.options{
+    margin-left:50px;
+    width:100px;
+    border: none;
+    margin-top: -70px;
+    font-size:20px;
+    background-color: greenyellow;
+}
+h1{
+    padding-top:150px;
+    padding-left:100px;
+    font-size: 40px;
+    background-color: #EEEEEE;
+    
+}
+
+.class{
+    background-color: #EEEEEE;
+    height: 100vh;
+}
+.division{
+    padding-top: 50px;
+    padding-left:150px;
+    
+}
+#sp{
+    margin-left: 50px;
+}
+.input{
+    padding-top: 20px;
+   border: none;
+   border-bottom: 2px solid black;
+   font-size:20px;
+   padding-bottom:10px;
+   background-color: #EEEEEE;
+   outline: none;
+}
+.division1 h2{
+    font-size:40px;
+    
+}
+.division1{
+position: relative;
+padding-left: 800px;
+bottom:260px;
+}
+
+.last-nav{
+    margin-top:-100px;
+    background-color: greenyellow;
+    padding: 10px;
+    margin-top:10px;
+}
+.last-nav p{
+    padding-top:20px;
+    font-size: 20px;
+    padding-left:200px;
+}
+.icons{
+    font-size: 40px;
+  word-spacing: 30px;
+  padding-left:1000px;
+  margin-top:-30px;
+}
+.icon{
+    color:white;
+}
